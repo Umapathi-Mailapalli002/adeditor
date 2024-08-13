@@ -1,0 +1,178 @@
+{
+  "banners": [
+    {
+      "id": 1,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/5a/6f/02/5a6f029fcb2f7b7edfd170448d7a364e.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+    },
+    {
+      "id": 3,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png"
+    },
+    {
+      "id": 4,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/fd/ec/b4/fdecb45fa998bd2e78d4054137ee78c4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/6b/8e/13/6b8e1366bb55a8c626e6e5d635cbc8eb.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam.",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/bb/8c/1e/bb8c1e858f98b055dab16ae51346263c.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/50/20/d2/5020d20b44a6ae3c05707e477b47f703.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/f7/f8/8b/f7f88bb2da121b08f04ba9ed688cf4ec.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/d9/89/15/d989156edb0525e461c378f9e6a3fb2f.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/23/15/88/23158840af6699c2b23273361dc24d5c.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/fe/a8/c6/fea8c687011733fc4e02f92d99626e6f.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/d0/e8/7d/d0e87d882a830f5a69a85557b8601cc7.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/736x/b3/47/18/b347189ef97fe0f5ba71545792d7351f.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/33/6e/8e/336e8e5b2eb091b042f2852e0128df7a.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/c5/24/0f/c5240f57bf66cf4694e187a2067b1f92.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/23/39/2c/23392cc57ee78d6284215bbacdbbd0e2.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/736x/95/0a/b5/950ab5ef53dad3a922890456d474c4cf.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/39/fa/7b/39fa7b944ced4d0214c9c81773e508f1.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/f2/c0/68/f2c06893c33a4816213db4ccb5d17acd.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Title ",
+      "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+      "cta": "click here",
+      "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+      "template": "https://i.pinimg.com/564x/32/e5/88/32e588512b616b7dfa81cd3775c63eab.jpg"
+    }
+  ],
+  "fields": {
+    "id": 2,
+    "title": "Title ravi",
+    "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+    "cta": "click here",
+    "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+    "template": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+  },
+  "id": 2,
+  "title": "Title sdsfsf",
+  "description": "Description for item-Lorem ipsum dolor sit amet consectetur adipisicing elit rem recusandae saepe delectus totam. ",
+  "cta": "click here",
+  "image": "https://i.pinimg.com/originals/70/65/4f/70654fd75f2991e168ec22b75fdbd6a5.gif",
+  "template": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+}
